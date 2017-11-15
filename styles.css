@@ -10,8 +10,12 @@ body {
 .sidebar {
   float: right;
   background-color: purple;
+  margin: 10px;
+  border: 15px solid lavender;
+  padding: 7px;
 }
 
 img {
   float: right;
+  padding: 5px;
 }
