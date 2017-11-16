@@ -16,6 +16,9 @@ body {
 }
 
 img {
-  float: right;
   padding: 5px;
+}
+
+p {
+  float: left;
 }
